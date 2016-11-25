@@ -111,10 +111,8 @@ Then just add paylike as a dependency
     <dependency>
         <groupId>com.paylike</groupId>
         <artifactId>paylike</artifactId>
-        <version>0.9.1</version>
+        <version>0.9.2</version>
     </dependency>
-
-Version `0.9.1` is the latest (and only) at the moment.
 
 # Dependencies
 
