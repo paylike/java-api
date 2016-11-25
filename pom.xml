@@ -44,7 +44,7 @@
     <groupId>com.paylike</groupId>
     <artifactId>paylike</artifactId>
     <url>https://github.com/paylike/java-api</url>
-    <version>0.9</version>
+    <version>0.9.1</version>
     <packaging>jar</packaging>
     <name>com.paylike</name>
     <description>A minimalist java paylike client</description>
