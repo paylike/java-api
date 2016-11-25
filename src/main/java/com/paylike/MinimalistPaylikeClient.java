@@ -40,7 +40,7 @@ class MinimalistPaylikeClient {
         throw new PaylikeUnauthorizedException(con.getResponseMessage(), responseCode);
       }
       if(responseCode == 403){
-        throw new PaylineForbiddenException(con.getResponseMessage(), responseCode);
+        throw new PaylikeForbiddenException(con.getResponseMessage(), responseCode);
       }
       if(responseCode == 409){
         throw new PaylikeConflictException(con.getResponseMessage(), responseCode);
